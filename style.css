@@ -1,0 +1,64 @@
+body {
+      font: 15px arial, sans-serif;
+      text-align: justify;
+      width: 1000px;
+      margin: 0 auto; 
+      line-height: 1.2;
+    }
+    
+    h1 {
+      text-align: center;
+      text-transform: uppercase;
+      text-decoration: underline wavy turquoise;
+    }
+    
+    h2, footer {
+      color: #fc4a1a;
+      text-align: center;
+    }
+    
+    p {
+      margin: 0 auto;
+    }
+    
+    header {
+      text-align: center;
+      margin: 20px;
+      color: white;
+      padding: 5px;
+      border-radius: 4px;
+      background-color: #f78733;
+      border: 2px solid #ff6666; 
+    }
+    
+    blockquote{
+      text-align: center;
+      font: italic;
+    }
+    
+    ol li {
+      margin: 20px;
+      padding: 5px;
+      border-radius: 4px;
+      background-color: #f78733;
+      border: 2px solid #ff6666;
+      color: white;  
+    }                          
+                                              
+    .autor, .zdroj{
+      font-weight: bold;
+    }
+    
+    .name {
+      font-style: italic;
+    }
+    
+    a {
+      text-decoration: none;
+      color: turquoise;
+    }
+    
+    a:hover {
+      color: #ff6666;
+    }
+
